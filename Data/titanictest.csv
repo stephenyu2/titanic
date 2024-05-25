@@ -1,0 +1,2 @@
+﻿pclass,survived,name,sex,age,sibsp,parch,ticket,fare,cabin,embarked,boat,body,home.dest
+3,0,"Storey, Mr. Thomas",male,60.5,0,0,3701,1,,S,,261,Unknown
